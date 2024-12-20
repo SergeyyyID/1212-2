@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\Сергей\source\repos\Viewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\Сергей\source\repos\Viewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\Сергей\source\repos\Viewer\Viewer\obj\Debug\Viewer.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\Viewer\Viewer\obj\Debug\Viewer.Form1.resources
+C:\Users\Сергей\source\repos\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\Сергей\source\repos\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\Viewer\Viewer\obj\Debug\Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\Сергей\source\repos\Viewer\Viewer\obj\Debug\Viewer.pdb

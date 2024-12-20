@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\Names2\Names2\obj\Debug\Names2.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\Names2\Names2\obj\Debug\Names2.Form1.resources
+C:\Users\Сергей\source\repos\Names2\Names2\obj\Debug\Names2.Properties.Resources.resources
+C:\Users\Сергей\source\repos\Names2\Names2\obj\Debug\Names2.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\Names2\Names2\obj\Debug\Names2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\Names2\Names2\bin\Debug\Names2.exe.config
+C:\Users\Сергей\source\repos\Names2\Names2\bin\Debug\Names2.exe
+C:\Users\Сергей\source\repos\Names2\Names2\bin\Debug\Names2.pdb
+C:\Users\Сергей\source\repos\Names2\Names2\obj\Debug\Names2.exe
+C:\Users\Сергей\source\repos\Names2\Names2\obj\Debug\Names2.pdb
